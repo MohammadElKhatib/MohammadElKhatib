@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadElKhatib
 - 👀 I’m interested in developing solutions (websites / mobile apps) using latest technologies
-- 🌱 I’m currently using clean architecture over .Net Core 56
+- 🌱 I’m currently using clean architecture over .Net Core 6
 - 💞️ I’m looking to collaborate on sharing knowledge with others
 - 📫 How to reach me ... ----> MohammadElkhatib.com
 
