@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohammadElKhatib
 - 👀 I’m interested in developing solutions (websites / mobile apps) using latest technologies
-- 🌱 I’m currently using clean architecture over .Net Core 6
+- 🌱 I’m currently using clean architecture over .Net Core 8
 - 💞️ I’m looking to collaborate on sharing knowledge with others
-- 📫 How to reach me ... ----> MohammadElkhatib.com
+- 📫 How to reach me ... ----> MKCoding.com
 
 <!---
 MohammadElKhatib/MohammadElKhatib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
